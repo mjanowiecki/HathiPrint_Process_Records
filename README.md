@@ -5,7 +5,8 @@ Several Python 3 packages are utilized:
   - pandas
   - glob
   - sys
-  - traceback
+  - datetime
+  - csv
 
 All packages except pandas should be Python standard library. Use <b>pip install [package_name]</b> to install or <b>pip install [package_name] --upgrade</b> to upgrade a package.
 
